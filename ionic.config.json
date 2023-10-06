@@ -1,0 +1,7 @@
+{
+  "name": "HexaPuzzle",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
